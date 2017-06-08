@@ -1,0 +1,40 @@
+body {
+    background-color: cornflowerblue;
+    font-size: 12pt;
+    font-family:sans-serif;
+}
+
+p {
+    font: arial;
+    font-size: 12pt;
+    color: ghostwhite;
+}
+
+h1 {
+    font: arial;
+    font-size: 20pt;
+    text-align: center;
+    color: darkolivegreen;
+}
+
+h2 {
+    font: arial;
+    font-size: 16pt;
+    color:crimson;
+}
+
+h3 {
+    font: arial;
+    font-size: 14pt;
+    color: rebeccapurple;
+    
+}
+#wrapper {
+    width: 80%;
+	background-color:darkgoldenrod;
+	margin-top: 30pt;
+	margin-bottom: 30pt;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border: thick solid cyan;
